@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: cyan;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+h1{
+    margin: 70px;
+}
+
+p{
+    font-style: italic;
+}
+
+div{
+    display: inline-block;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+img{
+    width: 230px;
+}
